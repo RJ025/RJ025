@@ -60,9 +60,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RJ025/count.svg?"  />
-</div>
+
 
 ###
 
